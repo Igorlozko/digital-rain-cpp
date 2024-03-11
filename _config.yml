@@ -1,1 +1,9 @@
+# Site settings
+title: Digital Rain  C++ Project Blog
+author:
+  name: Igor Lozko
+  email: email123@outlook.com
+description: "Digital rain blog."
 
+# Build settings
+remote_theme: jekyll/minima
